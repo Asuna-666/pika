@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hanzhong
+HostName                       redhat-vlab01.seas.gwu.edu
+ProcessIdentifier              2275
+ProcessCreationTime_UTC        1664972169
+ProcessCreationTime_Readable   Wed Oct  5 08:16:09 2022 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ead/hanzhong/cadence/digital/4to1_mux_by2_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Oct  5 09:18:53 2022 EDT

@@ -1,0 +1,6 @@
+//Verilog HDL for "digital", "4bit_adder_tb_vdriver" "functional"
+
+
+module \4bit_adder_tb_vdriver  ( );
+
+endmodule
